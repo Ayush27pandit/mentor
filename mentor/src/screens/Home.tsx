@@ -1,4 +1,3 @@
-import React from "react";
 import Navbar from "../components2/Navbar";
 import mentee from "../assets/mentee2.svg";
 import WordRotate from "@/components/magicui/word-rotate";

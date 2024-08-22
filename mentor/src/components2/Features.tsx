@@ -1,5 +1,3 @@
-import React from "react";
-
 import { BsPersonWorkspace } from "react-icons/bs";
 import { IoDocumentTextOutline } from "react-icons/io5";
 import { FaReact } from "react-icons/fa";
